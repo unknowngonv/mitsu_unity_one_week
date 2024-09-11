@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Title">
+			<method name="OnClickStart"/>
+		</type>
+	</assembly>
+</linker>

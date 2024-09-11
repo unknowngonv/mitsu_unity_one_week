@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "mitsu_unity_one_week_client",
+"dataUrl": "build05.data.unityweb",
+"asmCodeUrl": "build05.asm.code.unityweb",
+"asmMemoryUrl": "build05.asm.memory.unityweb",
+"asmFrameworkUrl": "build05.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
